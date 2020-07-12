@@ -112,6 +112,9 @@ li {
   align-items: center;
   justify-content: center;
   height: 86vh;
+  background-image: url("img/top3.png");
+  background-color:rgba(255,255,255,0.3);
+  background-blend-mode:lighten;
 }
 
 .logo {
@@ -126,7 +129,6 @@ li {
   font-size: 64px;
   line-height: 1;
   letter-spacing: .2em;
-  color: #c0c0c0;
 }
 .logo-title_kanji {
   font-family: "Open sans", sans-serif;
@@ -140,7 +142,6 @@ li {
   margin-top: 5px;
   text-align: center;
   letter-spacing: .2em;
-  color:#c0c0c0;
 }
 
 /*--------------------------------
