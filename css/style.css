@@ -94,7 +94,7 @@ li {
   padding: 120px 0;
 }
 .top_section {
-  padding: 120px 0 0 0;
+  padding: 120px 0 60px 0;
 }
 .link-section {
   display: flex;
@@ -270,6 +270,9 @@ li {
   margin-right: 1.52671%;
   margin-bottom: 40px;
   text-align: center;
+}
+.link-text {
+  font-weight: bolder;
 }
 
 /*--------------------------------
